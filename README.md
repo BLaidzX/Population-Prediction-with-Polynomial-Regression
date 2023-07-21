@@ -1,1 +1,2 @@
 # Population-Prediction-with-Polynomial-Regression
+This Python script uses polynomial regression to predict the population of a selected country for a given year based on historical population data. The script reads population data from an Excel file and allows users to input the country name and the desired prediction year. It then fits a polynomial regression model to the data and makes the population prediction for the specified year.
